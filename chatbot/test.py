@@ -1,0 +1,1 @@
+print(type(eval("1"))==int)
